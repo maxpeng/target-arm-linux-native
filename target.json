@@ -1,6 +1,6 @@
 {
   "name": "arm-linux-native",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "inherits": {
     "linux-native": "^1.0.0"
   },
@@ -13,6 +13,8 @@
     "linux",
     "native"
   ],
+  "author": "Max Peng <max.peng1768@gmail.com>",
+  "homepage": "https://github.com/maxpeng/target-arm-linux-native",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
