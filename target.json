@@ -1,14 +1,14 @@
 {
-  "name": "x86-linux-native",
+  "name": "arm-linux-native",
   "version": "1.0.0",
   "inherits": {
     "linux-native": "^1.0.0"
   },
   "similarTo": [
-    "x86-64",
-    "x86"
+    "armv7l",
+    "armv6l"
   ],
-  "description": "Build target for programs compiled natively for Linux",
+  "description": "Build target for programs compiled natively for Linux with ARM architecture. For example, Raspbian.",
   "keywords": [
     "linux",
     "native"
